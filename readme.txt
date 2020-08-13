@@ -1,0 +1,32 @@
+=== Interior Design ===
+Contributors: the WordPress team
+Tested up to: 5.3
+Stable tag: 1.2
+License: 
+License URI: 
+
+Default theme for 2020.
+
+== Description ==
+
+InteriorDesign is a fully responsive and modern Agency WordPress theme which brings to you a great available content organization for showcasing business highlights throughout the year, without making viewers bored by attractive appearance. Besides, mobile users can also access this site to consult information with a beautiful and responsive layout. It's not a difficulty for use.This theme is fully customizable from a powerful admin panel, you can make any change you want to make your site prettier quickly and easily.
+
+== Changelog ==
+
+= 1.2 =
+* Released: March 31, 2020
+
+== Database Name  ==
+
+
+* creative_theme.Database will be creative_theme/database
+
+== Installation  ==
+Download This file
+Paste It htdocs Folder
+create database from paste the database folder
+== Admin Login  ==
+
+
+* Admin Log in Email:dd@gmail.com
+* Admin Log in Password:123456
